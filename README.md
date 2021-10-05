@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Mightyhaha
+- 🌱 Aalborg University - Software
+- 📫 Twitter: @ungtyrker
