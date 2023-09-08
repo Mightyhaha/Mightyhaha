@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Mightyhaha
-- Studying at Aalborg University pursuing a bachelor in Software Engineering, currently 4th semester.
-- Will be publicly releasing my exam assignments aswell as minor mini-projects.
-
+- Studying at Aalborg University pursuing a bachelor in Software Engineering, currently 7th semester.
 
 Socials:
 - 📫 Twitter: @ungtyrker
