@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Mightyhaha
-- Studying at Aalborg University pursuing a masters in Software Engineering, currently 7th semester.
+- Studying at Aalborg University pursuing a masters in Software Engineering, currently 8th semester.
+- Student worker @Saphe!
+- Great interest in AI and cleaning out data
 
 Socials:
 - 📫 Twitter: @ungtyrker
