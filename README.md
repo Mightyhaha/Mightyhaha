@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mightyhaha
 - Studying at Aalborg University pursuing a masters in Software Engineering, currently 8th semester.
 - Student worker @Saphe!
-- Great interest in AI and cleaning out data
+- Great interest in AI and data engineering (espciailly cleaning out data)
 
 Socials:
 - 📫 Twitter: @ungtyrker
